@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Codice penale interattivo per roleplay FiveM" />
+  <title>Codice Penale Interattivo</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="enhancements.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand container">
+      <a class="logo home-link" href="index.html" aria-label="Torna alla homepage">
+        <svg viewBox="0 0 48 48" aria-hidden="true"><path d="M24 3 7 10v11c0 11.4 7.3 20.7 17 24 9.7-3.3 17-12.6 17-24V10L24 3Z"/><path d="M16 18h16M19 18v13m10-13v13M14 32h20M21 14h6"/></svg>
+      </a>
+      <div>
+        <p class="eyebrow">Ufficio del procuratore</p>
+        <h1 id="appTitle">DIP. DI GIUSTIZIA — LOS SANTOS</h1>
+        <p class="address">Pillbox Hill, 1 Justice Plaza · Los Santos, SA</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero" aria-labelledby="pageTitle">
+      <div>
+        <p class="eyebrow">Archivio normativo</p>
+        <h2 id="pageTitle">Codice penale interattivo</h2>
+        <p>Consulta, seleziona e prepara un riepilogo dei capi d'accusa.</p>
+      </div>
+      <div class="hero-actions">
+        <button class="button secondary" id="resetButton" type="button">Reset campi</button>
+        <button class="button primary" id="copyButton" type="button" disabled>
+          <span aria-hidden="true">▣</span> Copia negli appunti
+        </button>
+      </div>
+    </section>
+
+    <section class="summary-grid" aria-label="Riepilogo sanzioni selezionate">
+      <article class="summary-card"><span>Fattura minima totale</span><strong id="fineMin">Nessun valore</strong><small id="fineMinNote"></small></article>
+      <article class="summary-card"><span>Fattura massima totale</span><strong id="fineMax">Nessun valore</strong><small id="fineMaxNote"></small></article>
+      <article class="summary-card"><span>Mesi minimi totali</span><strong id="monthsMin">Nessun valore</strong><small id="monthsMinNote"></small></article>
+      <article class="summary-card"><span>Mesi massimi totali</span><strong id="monthsMax">Nessun valore</strong><small id="monthsMaxNote"></small></article>
+    </section>
+
+    <section class="database-panel" aria-label="Elenco reati">
+      <div class="toolbar">
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="searchInput" type="search" placeholder="Cerca per articolo o reato…" autocomplete="off" /></label>
+        <label class="category-select"><span>Categoria</span><select id="categoryFilter"><option value="">Tutte le categorie</option></select></label>
+        <label class="toggle"><input id="selectedOnly" type="checkbox" /><span></span> Mostra solo selezionati</label>
+      </div>
+      <div class="table-meta"><span id="countText">Caricamento reati…</span><button class="text-button" id="selectVisible" type="button">Seleziona risultati</button></div>
+      <div id="loadingState" class="status">Caricamento archivio…</div>
+      <div class="table-wrap" id="tableWrap" hidden>
+        <table>
+          <thead><tr><th><input id="selectAll" type="checkbox" aria-label="Seleziona tutti i risultati" /></th><th>Articolo</th><th>Nome reato</th><th>Categoria</th><th>Fattura</th><th>Mesi di carcere</th><th>Procedura</th></tr></thead>
+          <tbody id="crimeTableBody"></tbody>
+        </table>
+      </div>
+      <p id="emptyState" class="status" hidden>Nessun reato corrisponde ai filtri scelti.</p>
+    </section>
+  </main>
+
+  <footer>Questo è un progetto non ufficiale creato per scopi di intrattenimento roleplay FiveM. Non è affiliato con enti governativi reali.</footer>
+
+  <dialog id="detailModal" aria-labelledby="modalTitle"><div class="modal-header"><div><p class="eyebrow" id="modalArticle"></p><h2 id="modalTitle"></h2></div><button class="close-button" id="closeModal" aria-label="Chiudi dettagli">×</button></div><div id="modalContent" class="detail-grid"></div><div class="modal-actions"><button class="button secondary" id="modalSelectButton" type="button">Seleziona reato</button></div></dialog>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="script.js"></script>
+</body>
+</html>

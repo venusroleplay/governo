@@ -1,0 +1,2 @@
+/* Rifiniture condivise delle pagine del portale. */
+.creator-credit{position:absolute;top:22px;right:28px;color:#aabbd1;text-decoration:none;font:11px Inter,Arial,sans-serif;transition:color .2s}.creator-credit:hover{color:#f0ca75}.creator-credit strong{color:#e8bb5c}.home-link{transition:transform .2s,background .2s}.home-link:hover{background:#c99f4d29;transform:translateY(-2px)}@media(max-width:650px){.creator-credit{position:static;display:block;padding:17px 14px 0;text-align:center}}

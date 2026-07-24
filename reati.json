@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "articolo": "Art. I.S.1.1",
+    "nome": "Eccesso di Velocità",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $2.000 a $6.000",
+    "mesi": "-",
+    "procedura": "Sequestro veicolo e Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 2,
+    "articolo": "Art. I.S.1.2",
+    "nome": "Guida in stato di ebbrezza / sotto effetto di Stupefacenti",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $6.000 a $12.000",
+    "mesi": "-",
+    "procedura": "Sequestro veicolo e Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 3,
+    "articolo": "Art. I.S.1.3",
+    "nome": "Guida pericolosa",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $6.000 a $12.000",
+    "mesi": "-",
+    "procedura": "Sequestro veicolo e Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 4,
+    "articolo": "Art. I.S.1.4",
+    "nome": "Guida senza patente (Non conseguita/Scaduta)",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $6.000 a $12.000",
+    "mesi": "-",
+    "procedura": "Sequestro veicolo e Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 5,
+    "articolo": "Art. I.S.1.5",
+    "nome": "Utilizzo di vetri oscurati senza permesso",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $70.000 a $90.000",
+    "mesi": "-",
+    "procedura": "Sequestro veicolo e Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 6,
+    "articolo": "Art. I.S.1.6",
+    "nome": "Raduno , Evento o manifestazione non Autorizzata",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $5.000 a $10.000",
+    "mesi": "-",
+    "procedura": "Sequestro veicolo e Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 7,
+    "articolo": "Art. I.S.1.7",
+    "nome": "Blocco Stradale",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $15.000 a $30.000",
+    "mesi": "Da 5 a 15 mesi",
+    "procedura": "Sequestro veicolo e Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 8,
+    "articolo": "Art. I.S.1.8",
+    "nome": "Mancato Alt",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $12.000 a $30.000",
+    "mesi": "Da 10 a 20 mesi",
+    "procedura": "Sequestro veicolo e Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 9,
+    "articolo": "Art. I.S.1.9",
+    "nome": "Furto di Veicolo",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $12.000 a $30.000",
+    "mesi": "Da 10 a 20 mesi",
+    "procedura": "Sequestro veicolo e Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 10,
+    "articolo": "Art. I.S.1.10",
+    "nome": "Partecipazione a Gara Clandestina",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $7.000 a $25.000",
+    "mesi": "Da 10 a 20 mesi",
+    "procedura": "Sequestro veicolo, ritiro della patente e arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 11,
+    "articolo": "Art. I.S.2.1",
+    "nome": "Ostruzione dei binari o delle piste aeroportuali",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $5.000 a $15.000",
+    "mesi": "Da 5 a 10 mesi",
+    "procedura": "Sequestro veicolo e Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 12,
+    "articolo": "Art. I.S.2.2",
+    "nome": "Guida Senza Casco",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $5.000 a $10.000",
+    "mesi": "-",
+    "procedura": "Sequestro veicolo e Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 13,
+    "articolo": "Art. I.S.2.3",
+    "nome": "Incauto Affidamento di veicolo",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $3.000 a $20.000",
+    "mesi": "-",
+    "procedura": "Sequestro veicolo e Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 14,
+    "articolo": "Art. I.S.2.4",
+    "nome": "Alterazione/ Rimozione di Targa del Veicolo",
+    "categoria": "Reati Stradali",
+    "fattura": "Da $25.000 a $50.000",
+    "mesi": "Da 15 a 25 mesi",
+    "procedura": "Sequestro veicolo, ritiro della patente e verbale d'arresto. Controllare Veicoli senza targa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 15,
+    "articolo": "Art. I.A.1.1",
+    "nome": "Evasione fiscale",
+    "categoria": "Reati Finanziari e Tributari",
+    "fattura": "Da $50.000 a $100.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 16,
+    "articolo": "Art. I.A.1.2",
+    "nome": "Evasione fiscale Fraudolenta",
+    "categoria": "Reati Finanziari e Tributari",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 17,
+    "articolo": "Art. I.A.1.3",
+    "nome": "Possesso e riciclaggio di denaro non tracciabile (da 1$ fino a 49.999$)",
+    "categoria": "Reati Finanziari e Tributari",
+    "fattura": "$20.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 18,
+    "articolo": "Art. I.A.1.4",
+    "nome": "Possesso e Riciclaggio internazionale di denaro non tracciabile (da 50.000$ a 199.999$)",
+    "categoria": "Reati Finanziari e Tributari",
+    "fattura": "Da $50.000 a $100.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 19,
+    "articolo": "Art. I.A.1.5",
+    "nome": "Possesso e Riciclaggio internazionale Fraudolento di denaro non tracciabile (uguale o maggiore di 200.000)",
+    "categoria": "Reati Finanziari e Tributari",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 20,
+    "articolo": "Art. I.A.1.6",
+    "nome": "Possesso di denaro tracciabile sopra il limite di legge (pari o superiori a $250.000)",
+    "categoria": "Reati Finanziari e Tributari",
+    "fattura": "$30.000",
+    "mesi": "-",
+    "procedura": "Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 21,
+    "articolo": "Art. I.A.1.7",
+    "nome": "Truffa",
+    "categoria": "Reati Finanziari e Tributari",
+    "fattura": "Da $20.000 a $70.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 22,
+    "articolo": "Art. I.CM.1.1",
+    "nome": "Evasione sulle Imposte (Fino a 99$)",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Somma evasa con 10% di penale aggiunta",
+    "mesi": "-",
+    "procedura": "Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 23,
+    "articolo": "Art. I.CM.1.2",
+    "nome": "Evasione sulle Imposte (Da 100$ a 9.999$)",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Somma evasa con 15% di penale aggiunta",
+    "mesi": "-",
+    "procedura": "Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 24,
+    "articolo": "Art. I.CM.1.3",
+    "nome": "Evasione sulle Imposte (Da 10.000$ a 99.999$)",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 25,
+    "articolo": "Art. I.CM.1.4",
+    "nome": "Evasione sulle Imposte (Oltre 100.000$)",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 26,
+    "articolo": "Art. I.CM.1.5",
+    "nome": "Frode Fiscale",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 27,
+    "articolo": "Art. I.CM.1.6",
+    "nome": "Vendita Illegale di prodotti",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 28,
+    "articolo": "Art. I.CM.1.7",
+    "nome": "Favoreggiamento lavoro in nero",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Da $25.000 a $50.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 29,
+    "articolo": "Art. I.CM.1.8",
+    "nome": "Discriminazione sul luogo di Lavoro / Mobbing",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 30,
+    "articolo": "Art. I.CM.1.9",
+    "nome": "Mancato pagamento della retribuzione",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "-",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 31,
+    "articolo": "Art. I.CM.1.10",
+    "nome": "Svolgimento di attività lavorativa senza documento",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "$40.000",
+    "mesi": "-",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 32,
+    "articolo": "Art. I.CM.2.1",
+    "nome": "Bancarotta Fraudolenta",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 33,
+    "articolo": "Art. I.CM.2.2",
+    "nome": "Concorrenza Sleale",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 34,
+    "articolo": "Art. I.CM.2.3",
+    "nome": "Inadempienza ai doveri amministrativi/istituzionali",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 35,
+    "articolo": "Art. I.CM.2.4",
+    "nome": "Inadempienza ai doveri amministrativi/istituzionali aggravata",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 36,
+    "articolo": "Art. I.CM.2.5",
+    "nome": "Violazione di obbligazioni contrattuali",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "-",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 37,
+    "articolo": "Art. I.CM.2.6",
+    "nome": "Sfruttamento illecito della professione giornalistica",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 38,
+    "articolo": "Art. I.CM.2.7",
+    "nome": "Diffamazione a mezzo stampa",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 39,
+    "articolo": "Art. I.CM.2.8",
+    "nome": "Alterazione fraudolenta di contenuti editoriali",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 40,
+    "articolo": "Art. I.CM.2.9",
+    "nome": "Pubblicazione negligente di informazioni",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 41,
+    "articolo": "Art. I.CM.2.10",
+    "nome": "Interferenza illecita con attività amministrativa",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 42,
+    "articolo": "Art. I.CM.3.1",
+    "nome": "Diffusione di notizie allarmistiche false",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 43,
+    "articolo": "Art. I.CM.3.2",
+    "nome": "Manipolazione illecita di dati e notizie",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 44,
+    "articolo": "Art. I.CM.3.4",
+    "nome": "Diffusione di messaggi sovversivi o ostili",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 45,
+    "articolo": "Art. I.CM.3.5",
+    "nome": "Inadempimento ad accordo governativo",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Da $50.000 a $250.000",
+    "mesi": "Da 0 a 10 mesi",
+    "procedura": "Dipartimento del Lavoro",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 46,
+    "articolo": "Art. I.CM.3.6",
+    "nome": "Immissione illecita di veicoli fuori produzione",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 47,
+    "articolo": "Art. I.CM.3.7",
+    "nome": "Omissione dichiarazione fuori produzione",
+    "categoria": "Reati Commerciali e Amministrativi",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 48,
+    "articolo": "Art. I.PU.1.1",
+    "nome": "Abuso di potere",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 49,
+    "articolo": "Art. I.PU.1.2",
+    "nome": "Abuso D'ufficio",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 50 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 50,
+    "articolo": "Art. I.PU.1.3",
+    "nome": "Corruzione/Concussione",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 51,
+    "articolo": "Art. I.PU.1.4",
+    "nome": "Falsificazione atti d'ufficio",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 50 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 52,
+    "articolo": "Art. I.PU.1.5",
+    "nome": "Divulgazione di Atti d'ufficio",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 50 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 53,
+    "articolo": "Art. I.PU.1.6",
+    "nome": "Minacce da pubblico ufficiale",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 54,
+    "articolo": "Art. I.PU.1.7",
+    "nome": "Peculato",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 55,
+    "articolo": "Art. I.PU.1.8",
+    "nome": "Uso eccessivo della forza",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 56,
+    "articolo": "Art. I.PU.1.9",
+    "nome": "Negligenza",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 57,
+    "articolo": "Art. I.PU.1.10",
+    "nome": "Inadempienza ai doveri federali e/o insubordinazione",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 58,
+    "articolo": "Art. I.PU.2.1",
+    "nome": "Mancata identificazione di Pubblico Ufficiale",
+    "categoria": "Reati contro la Pubblica Amministrazione",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 50 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 59,
+    "articolo": "Art. I.C.1.1",
+    "nome": "Diffamazione",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 60,
+    "articolo": "Art. I.C.1.2",
+    "nome": "Ingiuria",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 61,
+    "articolo": "Art. I.C.1.3",
+    "nome": "Calunnia",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 62,
+    "articolo": "Art. I.C.1.4",
+    "nome": "Falsa Dichiarazione",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Da $10.000 a $20.000",
+    "mesi": "-",
+    "procedura": "Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 63,
+    "articolo": "Art. I.C.1.5",
+    "nome": "Falsa Testimonianza",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Da $30.000 a $60.000",
+    "mesi": "Vedi Nota",
+    "procedura": "Incriminazione immediata tramite sentenza",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 64,
+    "articolo": "Art. I.C.1.6",
+    "nome": "Oltraggio alla corte",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Da $10.000 a $25.000",
+    "mesi": "10 mesi",
+    "procedura": "La Multa e l'Arresto sono a discrezione dell'autorità giudiziaria",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 65,
+    "articolo": "Art. I.C.1.7",
+    "nome": "Disturbo della quiete pubblica",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Da $5.000 a $10.000",
+    "mesi": "-",
+    "procedura": "Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 66,
+    "articolo": "Art. I.C.1.8",
+    "nome": "Incauto Affidamento",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Da $5.000 a $10.000",
+    "mesi": "-",
+    "procedura": "Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 67,
+    "articolo": "Art. I.C.1.9",
+    "nome": "Atti Osceni in Luogo Pubblico",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Da $10.000 a $15.000",
+    "mesi": "-",
+    "procedura": "Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 68,
+    "articolo": "Art. I.C.1.10",
+    "nome": "Minacce",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Da $10.000 a $30.000",
+    "mesi": "-",
+    "procedura": "Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 69,
+    "articolo": "Art. I.C.2.1",
+    "nome": "Occupazione di suolo pubblico o privato",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Da $15.000 a $20.000",
+    "mesi": "Da 5 a 15 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 70,
+    "articolo": "Art. I.C.2.2",
+    "nome": "Danneggiamento a Beni Privati / Statali",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 71,
+    "articolo": "Art. I.C.2.3",
+    "nome": "Incauta diffusione di foto/video/testi",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Stimata dal Giudice",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 72,
+    "articolo": "Art. I.C.2.4",
+    "nome": "Mancata esecuzione dei L.S.U.",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "$10.000 per ogni ora non effettuata",
+    "mesi": "-",
+    "procedura": "Sanzione Amministrativa",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 73,
+    "articolo": "Art. I.C.2.5",
+    "nome": "Omissione di Soccorso",
+    "categoria": "Reati Civili e contro la Persona",
+    "fattura": "Da $20.000 a $50.000",
+    "mesi": "Da 30 a 40 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 74,
+    "articolo": "Art. I.P.1.1",
+    "nome": "Minacce a Pubblico Ufficiale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $20.000 a $50.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 75,
+    "articolo": "Art. I.P.1.2",
+    "nome": "Abuso per sostituzione di persona",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 20 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 76,
+    "articolo": "Art. I.P.1.3",
+    "nome": "Intralcio alla giustizia",
+    "categoria": "Reati Penali",
+    "fattura": "Da $50.000 a $100.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 77,
+    "articolo": "Art. I.P.1.4",
+    "nome": "Oltraggio a Pubblico Ufficiale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 78,
+    "articolo": "Art. I.P.1.5",
+    "nome": "Resistenza a Pubblico Ufficiale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 79,
+    "articolo": "Art. I.P.1.6",
+    "nome": "Tentata Fuga",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 80,
+    "articolo": "Art. I.P.1.7",
+    "nome": "Procurato Allarme",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 81,
+    "articolo": "Art. I.P.1.8",
+    "nome": "Favoreggiamento",
+    "categoria": "Reati Penali",
+    "fattura": "Da $10.000 a $40.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 82,
+    "articolo": "Art. I.P.1.9",
+    "nome": "Aggressione",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 83,
+    "articolo": "Art. I.P.1.10",
+    "nome": "Aggressione a Pubblico Ufficiale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $10.000 a $30.000",
+    "mesi": "Da 20 a 40 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 84,
+    "articolo": "Art. I.P.2.1",
+    "nome": "Violazione di proprietà privata",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 85,
+    "articolo": "Art. I.P.2.2",
+    "nome": "Possesso di Documenti Falsi",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 86,
+    "articolo": "Art. I.P.2.3",
+    "nome": "Vendita ambulante abusiva",
+    "categoria": "Reati Penali",
+    "fattura": "Da $10.000 a $20.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 87,
+    "articolo": "Art. I.P.2.4",
+    "nome": "Utilizzo improprio di arma contundente o arma da taglio",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 88,
+    "articolo": "Art. I.P.2.5",
+    "nome": "Utilizzo improprio di arma da fuoco",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 89,
+    "articolo": "Art. I.P.2.6",
+    "nome": "Detenzione illegale di arma legale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $10.000 a $50.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 90,
+    "articolo": "Art. I.P.2.7",
+    "nome": "Detenzione di arma illegale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $20.000 a $40.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 91,
+    "articolo": "Art. I.P.2.8",
+    "nome": "Detenzione di arma bianca illegale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $10.000 a $30.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 92,
+    "articolo": "Art. I.P.2.9",
+    "nome": "Rapina a Mano Armata Negozietto",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $25.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 93,
+    "articolo": "Art. I.P.2.10",
+    "nome": "Rapina a Mano Armata Ponson Boys",
+    "categoria": "Reati Penali",
+    "fattura": "Da $10.000 a $30.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 94,
+    "articolo": "Art. I.P.3.1",
+    "nome": "Rapina a Mano Armata Gabriella's",
+    "categoria": "Reati Penali",
+    "fattura": "Da $15.000 a $35.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 95,
+    "articolo": "Art. I.P.3.2",
+    "nome": "Rapina a Mano Armata Gioielleria",
+    "categoria": "Reati Penali",
+    "fattura": "Da $20.000 a $40.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 96,
+    "articolo": "Art. I.P.3.3",
+    "nome": "Rapina a Mano Armata Fleeca",
+    "categoria": "Reati Penali",
+    "fattura": "Da $30.000 a $50.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 97,
+    "articolo": "Art. I.P.3.4",
+    "nome": "Rapina a Mano Armata Blaine",
+    "categoria": "Reati Penali",
+    "fattura": "Da $50.000 a $70.000",
+    "mesi": "Da 20 a 40 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 98,
+    "articolo": "Art. I.P.3.5",
+    "nome": "Rapina a Mano Armata Pacific",
+    "categoria": "Reati Penali",
+    "fattura": "Da $100.000 a $150.000",
+    "mesi": "Da 30 a 40 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 99,
+    "articolo": "Art. I.P.3.6",
+    "nome": "Rapina all'ATM",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $20.000",
+    "mesi": "Da 5 a 10 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 100,
+    "articolo": "Art. I.P.3.7",
+    "nome": "Possesso ingiustificato di arnesi atti allo scasso (Grimaldelli)",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $10.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 101,
+    "articolo": "Art. I.P.3.8",
+    "nome": "Ricettazione (Da 6 a 85 pezzi)",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $15.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 102,
+    "articolo": "Art. I.P.3.9",
+    "nome": "Ricettazione aggravata (da 86 in su)",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $20.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 103,
+    "articolo": "Art. I.P.3.10",
+    "nome": "Spaccio di Sostanze Stupefacenti: da 1 a 100 unità",
+    "categoria": "Reati Penali",
+    "fattura": "Da $15.000 a $30.000",
+    "mesi": "Da 20 a 40 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 104,
+    "articolo": "Art. I.P.4.1",
+    "nome": "Contrabbando di Sostanze Stupefacenti: da 101 a 250 unità",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 30 a 40 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 105,
+    "articolo": "Art. I.P.4.2",
+    "nome": "Traffico Internazionale di Sostanze Stupefacenti (maggiore di 250 unità)",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 106,
+    "articolo": "Art. I.P.4.3",
+    "nome": "Sequestro di Pubblico Ufficiale/Persona non Premeditato",
+    "categoria": "Reati Penali",
+    "fattura": "Da $20.000 a $40.000",
+    "mesi": "Da 30 a 40 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 107,
+    "articolo": "Art. I.P.4.4",
+    "nome": "Sequestro di Pubblico Ufficiale/Persona Premeditato",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 108,
+    "articolo": "Art. I.P.4.5",
+    "nome": "Istigazione",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 109,
+    "articolo": "Art. I.P.4.6",
+    "nome": "Utilizzo improprio di maschera parziale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $50.000 a $100.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 110,
+    "articolo": "Art. I.P.4.7",
+    "nome": "Utilizzo improprio di maschera totale/integrale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $100.000 a $150.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 111,
+    "articolo": "Art. I.P.4.8",
+    "nome": "Interruzione di servizio pubblico",
+    "categoria": "Reati Penali",
+    "fattura": "Da $2.000 a $5.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 112,
+    "articolo": "Art. I.P.4.9",
+    "nome": "Occupazione suolo governativo",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $10.000",
+    "mesi": "Da 20 a 40 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 113,
+    "articolo": "Art. I.P.4.10",
+    "nome": "Raffinazione di sostanze Stupefacenti",
+    "categoria": "Reati Penali",
+    "fattura": "Da $20.000 a $40.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 114,
+    "articolo": "Art. I.P.5.1",
+    "nome": "Abuso di Professione",
+    "categoria": "Reati Penali",
+    "fattura": "Da $20.000 a $40.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 115,
+    "articolo": "Art. I.P.5.2",
+    "nome": "Raggiungimento di 5 pulizie fedine penali",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 116,
+    "articolo": "Art. I.P.5.3",
+    "nome": "Raggiungimento di 5 arresti con reato di classe A",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 117,
+    "articolo": "Art. I.P.5.4",
+    "nome": "Associazione a Delinquere",
+    "categoria": "Reati Penali",
+    "fattura": "Da $30.000 a $60.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 118,
+    "articolo": "Art. I.P.5.5",
+    "nome": "Associazione a Delinquere di stampo mafioso o terroristico",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 119,
+    "articolo": "Art. I.P.5.6",
+    "nome": "Attentato alle Istituzioni Governative",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 120,
+    "articolo": "Art. I.P.5.7",
+    "nome": "Omicidio/Omicidio P.U.",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 121,
+    "articolo": "Art. I.P.5.8",
+    "nome": "Traffico di Armi Illegali (da 5 a 10 unità)",
+    "categoria": "Reati Penali",
+    "fattura": "Da $60.000 a $120.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 122,
+    "articolo": "Art. I.P.5.9",
+    "nome": "Traffico Internazionale di Armi Illegali (maggiore di 10 unità)",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 123,
+    "articolo": "Art. I.P.5.10",
+    "nome": "Possesso di Armi Legali (da 5 a 10 unità)",
+    "categoria": "Reati Penali",
+    "fattura": "Da $50.000 a $100.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 124,
+    "articolo": "Art. I.P.6.1",
+    "nome": "Traffico Internazionale di Armi Legali (maggiore di 10 unità)",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 125,
+    "articolo": "Art. I.P.6.2",
+    "nome": "Vendita/Acquisto illegale di Armi",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 126,
+    "articolo": "Art. I.P.6.3",
+    "nome": "Estorsione",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 127,
+    "articolo": "Art. I.P.6.4",
+    "nome": "Falsificazione/Occultamento Prove",
+    "categoria": "Reati Penali",
+    "fattura": "Da $20.000 a $40.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 128,
+    "articolo": "Art. I.P.6.5",
+    "nome": "Tentato Omicidio",
+    "categoria": "Reati Penali",
+    "fattura": "Da $50.000 a $100.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 129,
+    "articolo": "Art. I.P.6.6",
+    "nome": "Tentato Omicidio a Pubblico Ufficiale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $60.000 a $120.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 130,
+    "articolo": "Art. I.P.6.7",
+    "nome": "Tentato Omicidio a P.U. Aggravato",
+    "categoria": "Reati Penali",
+    "fattura": "Da $80.000 a $160.000",
+    "mesi": "Da 20 a 40 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 131,
+    "articolo": "Art. I.P.6.8",
+    "nome": "Tortura",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 132,
+    "articolo": "Art. I.P.6.9",
+    "nome": "Violazione di proprietà dello stato/federale/militare",
+    "categoria": "Reati Penali",
+    "fattura": "Da $30.000 a $70.000",
+    "mesi": "Da 10 a 30 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 133,
+    "articolo": "Art. I.P.6.10",
+    "nome": "Cospirazione",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 134,
+    "articolo": "Art. I.P.7.1",
+    "nome": "Tentata corruzione",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Da 10 a 50 mesi",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 135,
+    "articolo": "Art. I.P.7.2",
+    "nome": "Frode Elettorale",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 136,
+    "articolo": "Art. I.P.7.3",
+    "nome": "Scambio elettorale politico-mafioso",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 137,
+    "articolo": "Art. I.P.7.4",
+    "nome": "Interruzione di propaganda elettorale",
+    "categoria": "Reati Penali",
+    "fattura": "Da $5.000 a $10.000",
+    "mesi": "Da 10 a 15 mesi",
+    "procedura": "Arresto",
+    "richiestaProcesso": false
+  },
+  {
+    "id": 138,
+    "articolo": "Art. I.P.7.5",
+    "nome": "Scambio di Voto",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 139,
+    "articolo": "Art. I.P.7.6",
+    "nome": "Sequestro di membro governativo",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  },
+  {
+    "id": 140,
+    "articolo": "Art. I.P.7.7",
+    "nome": "Oltraggio alle Alte Cariche Istituzionali",
+    "categoria": "Reati Penali",
+    "fattura": "Stimata dal Giudice",
+    "mesi": "Fino All'Ergastolo",
+    "procedura": "Richiesta Processo",
+    "richiestaProcesso": true
+  }
+]
